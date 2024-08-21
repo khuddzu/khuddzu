@@ -22,7 +22,7 @@
 <img src="https://ih1.redbubble.net/image.3047863206.6446/raf,750x1000,075,t,101010:01c5ca27c6.jpg" alt="Thumbnail" width="200" height="250" align="right"></a>
 <p> 🌱 Postdoctoral Researcher at the University of Florida, working in the <a href="https://github.com/mqcomplab" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a>.<p/>
 <p> 🌱 PhD received at the University of Florida, working in the <a href="https://github.com/roitberg-group" target="_blank" rel="noopener noreferrer">Roitberg Group</a>, where I contributed to <a href="https://github.com/aiqm/torchani" target="_blank" rel="noopener noreferrer"> <img src=https://raw.githubusercontent.com/aiqm/torchani/master/logo1.png width=125/></a>. <p/>
-<p>  🌱 Currently contributing to the development of the clustering algorithm <a href="https://github.com/mqcomplab/bitbirch" target="_blank" rel="noopener noreferrer">BITBirch.</a></p>
+<p>  🌱 Currently contributing to the Pytorch development of the clustering algorithm <a href="https://github.com/mqcomplab/bitbirch" target="_blank" rel="noopener noreferrer">BITBirch.</a></p>
 <p> 🌱 My research has been dedicated to ML techniques, specifically predictive models, for the purpose of aiding in drug design. My interests focus on prediction of local atomic properties, with an emphasis on electrostatics.</p>
 
 <h3 align="left">Connect with me:</h3>
