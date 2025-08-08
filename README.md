@@ -23,7 +23,7 @@
 <p>  🌱 Research Software Engineer with <a href="https://github.com/OpenADMET" target="_blank" rel="noopener noreferrer">OpenADMET</a>, a project branch of <a href="https://omsf.io/" target="_blank" rel="noopener noreferrer"> OMSF</a>.</p>
 <p> 🌱 Postdoctoral research done at the University of Florida, working in the <a href="https://github.com/mqcomplab" target="_blank" rel="noopener noreferrer">Miranda-Quintana Group</a>, where I contributed to the development of the clustering algorithm <a href="https://github.com/mqcomplab/bitbirch" target="_blank" rel="noopener noreferrer">BitBIRCH</a>, as well as the similarity framework  <a href="https://github.com/mqcomplab/iSIM" target="_blank" rel="noopener noreferrer">iSIM</a>.<p/>
 <p> 🌱 PhD received at the University of Florida, working in the <a href="https://github.com/roitberg-group" target="_blank" rel="noopener noreferrer">Roitberg Group</a>, where I contributed to <a href="https://github.com/aiqm/torchani" target="_blank" rel="noopener noreferrer"> <img src=https://raw.githubusercontent.com/aiqm/torchani/master/logo1.png width=125/></a>. <p/>
-<p> 🌱 My research has been dedicated to ML techniques, specifically predictive models, for the purpose of aiding in drug design. My interests have focused on prediction of local atomic properties, with an emphasis on electrostatics. </p>
+<p> 🌱 My research has been dedicated to ML techniques, specifically predictive models, for the purpose of aiding in drug design. My interests have focused on prediction of local atomic properties, with an emphasis on electrostatics. Currently, I am contributing to the development of the OpenADMET machine learning models and data suite.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
